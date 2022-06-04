@@ -4,7 +4,7 @@ Simple command line tool to generate Electrum scripthashes from addresses.
 Based on [coinslib](https://github.com/Vesta-wallet/coinslib/ "coinslib").
 
 ### Prerequisites
-- dart
+- Dart
 
 ### Example
 Simply provide the desired network and address as arguments:
