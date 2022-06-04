@@ -1,4 +1,5 @@
 # dart_scripthash_generator
+[![Dart](https://github.com/willyfromtheblock/dart_scripthash_generator/actions/workflows/dart.yml/badge.svg)](https://github.com/willyfromtheblock/dart_scripthash_generator/actions/workflows/dart.yml)  
 Simple command line tool to generate Electrum scripthashes from addresses.
 Based on [coinslib](https://github.com/Vesta-wallet/coinslib/ "coinslib").
 
